@@ -1,0 +1,33 @@
+.box1 {
+    border: 2px dotted red;
+    width: 600px;
+    height: 300px;
+    overflow: hidden;
+}
+
+.box2 {
+    margin-top: 10px;
+    border: 2px dotted red;
+    width: 600px;
+    height: 300px;
+    overflow: scroll;
+}
+
+.box3 {
+    margin-top: 10px;
+    border: 2px dotted red;
+    width: 600px;
+    height: 300px;
+    overflow: auto;
+}
+
+.box4 {
+    border: 2px dotted red;
+    width: 300px;
+}
+
+.paragraph {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
