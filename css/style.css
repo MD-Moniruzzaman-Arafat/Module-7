@@ -31,3 +31,17 @@
     text-overflow: ellipsis;
     overflow: hidden;
 }
+
+.box5 {
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    transition: 2s all;
+}
+
+.box5:hover {
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+}

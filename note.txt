@@ -2,3 +2,4 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/overflow
 https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow
 css overflow,visible,hidden,scroll,text overflow, ellipsis
 https://developer.mozilla.org/en-US/docs/Web/CSS/transform
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
